@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/antidoping", {data:[{}],fetch:{},mutations:void 0});
